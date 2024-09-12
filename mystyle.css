@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(154,210,245)
+}
+
+h1{
+    color: rgb(2,97,156)
+}
+
+h3{
+    color: rgb(2,97,156)
+}
+
+#content{
+    width:800px;
+    margin-left: auto;
+    margin-right:auto;
+}
